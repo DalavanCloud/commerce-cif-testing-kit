@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "test-generation/package.json"
+      ]
+    }
+  }
+}
