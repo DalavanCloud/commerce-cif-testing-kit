@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/adobe/commerce-cif-testing-kit.svg?style=svg)](https://circleci.com/gh/adobe/commerce-cif-testing-kit)
+[![CircleCI](https://circleci.com/gh/adobe/commerce-cif-testing-kit.svg?style=svg)](https://circleci.com/gh/adobe/commerce-cif-testing-kit) [![Greenkeeper badge](https://badges.greenkeeper.io/adobe/commerce-cif-testing-kit.svg)](https://greenkeeper.io/)
 
 # Commerce Integration Framework (CIF) on Cloud - API Testing Kit
 This repository contains tools to generate HTTP-based unit and Toughday2 tests for the CIF API.
